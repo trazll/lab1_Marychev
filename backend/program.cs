@@ -6,3 +6,13 @@ Console.Write("Введите ваше имя: ");
 string name = Console.ReadLine();
 Console.WriteLine($"Привет, {name}!");
 Console.WriteLine(DateTime.Now);
+Console.Write("Хотите продолжить? (y/n): ");
+string response = Console.ReadLine();
+if (response.ToLower() == "y")
+{
+Console.WriteLine("Продолжаем работу...");
+}
+else
+{
+Console.WriteLine("До свидания");
+}
