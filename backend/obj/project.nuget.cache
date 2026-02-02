@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "SjNwGExF9No=",
   "success": true,
   "projectFilePath": "C:\\Users\\traz\\Desktop\\lab1_Marychev-master\\backend\\backend.csproj",
+=======
+  "dgSpecHash": "M8vA3Rof4Qs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student_10\\Documents\\Марычев\\backend\\backend.csproj",
+>>>>>>> dc21b7665566c6e34c5afb515290fab7fa0a1246
   "expectedPackageFiles": [],
   "logs": []
 }
